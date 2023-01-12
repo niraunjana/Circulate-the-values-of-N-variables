@@ -31,7 +31,8 @@ def circulate():
 print("After circulating the values are:",circulate())
 ```
 ## Output:
-![OUTPUT](./images/EXP02py.png)
+![image](https://user-images.githubusercontent.com/119395610/211969580-8c838a08-5a50-45b0-b3f3-8f54fb7c90ca.png)
+
 
 ## Result:
 Thus circulating the values of n variables are successfully executed
